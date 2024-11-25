@@ -1,6 +1,6 @@
 # Configura el repositorio de CRAN
 options(repos = c(CRAN = "https://cloud.r-project.org"))
-install.packages("here")
+#install.packages("here")
 library(here)
 
 # Cambia al directorio raíz del proyecto
